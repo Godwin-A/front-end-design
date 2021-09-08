@@ -748,7 +748,7 @@ fieldset {
 
 .main-header .top-area .info-menu li a {
 	display: block;
-	color: #fff;
+	color: orange;
 	margin-right: 24px;
 	line-height: 42px;
 }

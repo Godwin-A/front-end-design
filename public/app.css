@@ -2,9 +2,7 @@
     color: #008080;
     font-size: xx-large;
 }
-.main-header .top-area{
-    color: #FFFAFA ;
-}
+
 .thecolor{
     background-color: green;
 }
@@ -30,7 +28,7 @@ video{
   position: fixed;
   top: 0;
   left: 0;
-  opacity: 0.8;
+  opacity: 0.6;
    
 }
       
