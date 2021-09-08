@@ -53,11 +53,12 @@ body {
 	font-family: 'Roboto', sans-serif;
 	font-size: 15px;
 	color: #777;
-	background: #fff;
+	background: #03a9f4;
 	line-height: 1.9em;
 	font-weight: 400;
 	margin: auto;
 	overflow-x: hidden;
+	mix-blend-mode: overlay;
 }
 
 html,

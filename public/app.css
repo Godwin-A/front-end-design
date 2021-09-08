@@ -5,3 +5,44 @@
 .main-header .top-area{
     color: #FFFAFA ;
 }
+.thecolor{
+    background-color: green;
+}
+.dark-theme{
+    background-color: black;
+}
+/*-<div class=""> </div>-*/
+/*.single-about-img-inner{*/
+/*    background-color: green;*/
+/*}*/
+#icon{
+    width: 25px;
+    cursor: pointer;
+    float: left;
+    margin-right: 30px;
+    margin-top : 10px;
+}
+
+video{
+    object-fit: cover;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  opacity: 0.8;
+   
+}
+      
+      
+.main-header .top-area{
+     position: relative;
+     opacity: 2;
+}
+#text{
+    color: black;
+}
+
+/*@media(max-width: 991px){*/
+    
+/*}*/
